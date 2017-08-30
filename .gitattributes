@@ -1,0 +1,2 @@
+Data/City_Owned_Parcels/City_Owned_Parcels.csv filter=lfs diff=lfs merge=lfs -text
+Data/City_Owned_Parcels/City_Owned_Parcels_Clean.csv filter=lfs diff=lfs merge=lfs -text
